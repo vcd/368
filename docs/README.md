@@ -1,8 +1,21 @@
 ⭐ DESN 368 Web Design 1
 
+## News
+
+* Go to [Code in the Dark](https://codeinthedarkspokane.com/) on Oct. 5th
+
+> How are professional Web Designers defined? 
+
+## Master Professor Pen
+Let's type together and practice [pair programming](https://en.wikipedia.org/wiki/Pair_programming).
+
+> [👔 🖊️ Master Professor Pen 👩‍💻 👨‍💻](https://codepen.io/manikoth/professor/YzKmRXx)
 
 ## Scrimba
-Purchase Scrimba’s, [_Responsive Design Course_](https://scrimba.com/g/gresponsive?coupon=ewustudent ). It will be our “textbook”. Use the special link https://scrimba.com/g/gresponsive?coupon=ewustudent for a $45 price( with the 55% discount).
+Scrimba are interactive tutorials. Type along, pause, rewind, speed up, slow down, and ask questions. Purchase Scrimba’s, [_Responsive Design Course_](https://scrimba.com/g/gresponsive?coupon=ewustudent ). It will be our “textbook”. Use the special link https://scrimba.com/g/gresponsive?coupon=ewustudent for a $45 price( with the 55% discount).
+
+> [_Responsive Design Course_ with EWU discount](https://scrimba.com/g/gresponsive?coupon=ewustudent)
+
 
 ## CodePen
 [CodePen](https://codepen.io/) will be our tool to practice code and create Assignments. 
