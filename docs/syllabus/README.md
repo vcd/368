@@ -48,35 +48,19 @@ Weekly course outline are subject to changes. Web design tools and techniques ev
 
 Software is selected based on availability on both Mac and PC operating systems. 
 
-### TreeHouse
+## Scrimba
+Purchase Scrimba’s, [_Responsive Design Course_](https://scrimba.com/g/gresponsive?coupon=ewustudent ). It will be our “textbook”. Use the special link https://scrimba.com/g/gresponsive?coupon=ewustudent for a $45 price( with the 55% discount).
 
-Treehouse is an online video learning service providing screencasts, tutorials, &amp; quizzes. Students may choose to cancel their accounts after the course is concluded. There is no physical textbook for this course. 
+## CodePen
+[CodePen](https://codepen.io/) will be our tool to practice code and create Assignments. 
 
- * [TreeHouse][1]
-* Required to $25 per month academic pricing subscription
-* Students must cancel subscription _manually_ at end of quarter
+> "_At its heart, it allows you to write code in the browser, and see the results of it as you build. A useful and liberating online code editor for developers of any skill, and particularly empowering for people learning to code._"
 
-### CodePen
-There are many great modern text editors. This quarter we will be using CodePen for writing code, browser testing, in class exercise, and code examples. 
+## Webflow
+[Webflow](https://webflow.com/pricing) will be our tool to apply code and create Projects. Start with *Free, Individual Plan* account. Will upgrade to the _CMS Plan_later.
 
-* [CodePen][2]
-
-### Website Hosting & Version Control
-
-GitHub for web hosting &amp; also version control
-
-* [GitHub][3] the service
-* GitHub Desktop the application
-
-### Visual Design
-
-Adobe Photoshop for website: mockups, asset creation, and image optimization. Any version of Photoshop 4 or above is sufficient. 
-
-### Dev Tools
-
-Google&#39;s Chrome will be the primary browser. Chrome Dev Tools are included in the browser for front-end website debugging.
-
-* [Google Chrome Dev Tools][4]
+## Hover
+[Hover](https://www.hover.com/) will be our domain name registrar. Create a Hover.com account and purchase a domain name. Use coupon code: **_ATP10OFF_** for 10% off. Take the time to find the best domain name options for yourself. Don’t rush it. 
 
 ## Grading &amp; Evaluation
 
