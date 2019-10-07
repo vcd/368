@@ -1,4 +1,4 @@
-# Module 1: Process & Foundations 
+# Module 1: Process & HTML Foundations 
 
 > Concepts with _Scrimba_. Practice with _CodePen_. Apply with _Webflow_.
 
@@ -8,7 +8,7 @@ Watch, type along, and ask questions.
 * [Introduction to HTML on Scrimba](https://scrimba.com/g/ghtml)
 * [HTML Reference.io](https://htmlreference.io/)
 
-> [HTML Structure slides](html-foundations.pdf)
+> [HTML Structure slides](https://vcd.github.io/368/module-1/html-foundations.pdf)
 
 ## Practice
 CodePen is a great tool for coding practice. 
