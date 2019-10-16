@@ -1,4 +1,4 @@
-⭐ DESN 368 Web Design 1
+# :globe_with_meridians: DESN 368 Web Design 1
 
 ## News
 
