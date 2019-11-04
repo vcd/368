@@ -1,4 +1,4 @@
-# Module 1: Process & HTML Foundations 
+# Module 1: HTML Foundations 
 
 > Concepts with _Scrimba_. Practice with _CodePen_. Apply with _Webflow_.
 
