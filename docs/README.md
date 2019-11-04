@@ -2,8 +2,6 @@
 
 ## News
 
-* Go to [Code in the Dark](https://codeinthedarkspokane.com/) on Oct. 5th
-
 > How are professional Web Designers defined? 
 
 ## Master Professor Pen
