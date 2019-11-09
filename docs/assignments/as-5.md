@@ -1,0 +1,16 @@
+<h1 id="assignment3" style="color: #000000; margin: 0px 0px 1rem; font-weight: 600; line-height: 1.15; font-size: 3.052em; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; font-style: normal; text-align: start; text-indent: 0px; white-space: normal; text-decoration: none;">Assignment 5</h1>
+<h2 id="forksolvesubmit" style="color: #111111; margin: 2.75rem 0px 1rem; font-weight: 600; line-height: 1.15; font-size: 2.441em; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; font-style: normal; text-align: start; text-indent: 0px; white-space: normal; text-decoration: none;" data-orig-id="fork.solve.submit.">Fork. Solve. Submit.</h2>
+<p style="color: #111111; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; font-size: 1.1429em; line-height: 1.3125em; margin: 1.3125em 0px; font-style: normal; font-weight: normal; text-align: start; text-indent: 0px; white-space: normal; text-decoration: none;"><em style="line-height: 1;">Fork</em> these pens to your account. Solve. Then submit - your - CodePen pen. Provide URLs to your-solved-pen (not the source-pen). Double check URLs.&nbsp;</p>
+<ul style="margin-top: 0.625em; margin-bottom: 0.625em; padding-left: 2.5rem; color: #111111; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: normal; text-align: start; text-indent: 0px; white-space: normal; text-decoration: none;">
+<li style="font-size: 15.399999618530273px;"><a href="https://codepen.io/manikoth/pen/vYYWddJ">AS #5: Pen A</a></li>
+<li style="font-size: 15.399999618530273px;"><a href="https://codepen.io/manikoth/pen/eYYeVjY">AS #5: Pen B</a></li>
+<li style="font-size: 15.399999618530273px;"><a href="https://codepen.io/manikoth/pen/bGGYLmQ">AS #5: Pen C</a></li>
+<li style="font-size: 15.399999618530273px;"><a href="https://codepen.io/manikoth/pen/MWWOQxW">AS #5: Pen D</a></li>
+<li style="font-size: 15.399999618530273px;"><a href="https://codepen.io/manikoth/pen/VwwrQRM">AS #5: Pen E</a></li>
+</ul>
+<h2 id="createit" style="color: #111111; margin: 2.75rem 0px 1rem; font-weight: 600; line-height: 1.15; font-size: 2.441em; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; font-style: normal; text-align: start; text-indent: 0px; white-space: normal; text-decoration: none;">Create It</h2>
+<p style="color: #111111; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; font-size: 1.1429em; line-height: 1.3125em; margin: 1.3125em 0px; font-style: normal; font-weight: normal; text-align: start; text-indent: 0px; white-space: normal; text-decoration: none;">Create your own problem Pen, and provide a Solution. Use the topics from this and past assignments. Demonstrate you understand the concepts. Have fun.</p>
+<ul style="margin-top: 0.625em; margin-bottom: 0.625em; padding-left: 2.5rem; color: #111111; font-family: 'Helvetica Neue', Helvetica, Arial, Verdana, sans-serif; font-size: 14px; font-style: normal; font-weight: normal; text-align: start; text-indent: 0px; white-space: normal; text-decoration: none;">
+<li style="font-size: 15.399999618530273px;">Provide URL to <em style="line-height: 1;">Problem</em> pen</li>
+<li style="font-size: 15.399999618530273px;">Provde URL to <em style="line-height: 1;">Solution</em> pen</li>
+</ul>
