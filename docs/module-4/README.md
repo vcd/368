@@ -33,7 +33,7 @@ From CSS Specification:
 * Relative
 * Absolute
 * Fixed
-* :black_nib: Sticky
+* :black_nib: Sticky | [Stick vs. Fixed](https://css-tricks.com/creating-sliding-effects-using-sticky-positioning/)
 * :black_nib: Absolute Child with Relative Parent
 
 
