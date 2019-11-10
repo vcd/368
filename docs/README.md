@@ -1,13 +1,9 @@
-# :globe_with_meridians: DESN 368 Web Design 1
-
-## News
-
-> How are professional Web Designers defined? 
+# DESN 368 Web Design 1
 
 ## Master Professor Pen
 Let's type together and practice [pair programming](https://en.wikipedia.org/wiki/Pair_programming).
 
-> [👔 🖊️ Master Professor Pen 👩‍💻 👨‍💻](https://codepen.io/manikoth/professor/YzKmRXx)
+> [👔🖊️Master Professor Pen👩‍💻👨‍💻 (updated link)](https://codepen.io/manikoth/professor/qrGMjL)
 
 ## Scrimba
 Scrimba are interactive tutorials. Type along, pause, rewind, speed up, slow down, and ask questions. Purchase Scrimba’s, [_Responsive Design Course_](https://scrimba.com/g/gresponsive?coupon=ewustudent ). It will be our “textbook”. Use the special link https://scrimba.com/g/gresponsive?coupon=ewustudent for a $45 price( with the 55% discount).
