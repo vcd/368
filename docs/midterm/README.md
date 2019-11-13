@@ -71,13 +71,13 @@
 
 ---
 
-<!--
+
 ## Solutions
 1. [Google Fonts](https://codepen.io/manikoth/pen/99b99a55e239b503eda82c4597e4c16e)
 2. [Advanced CSS Selectors](https://codepen.io/manikoth/pen/6c08b00a0e5bdc652501297cec566709)
 3. [Positioning](https://codepen.io/manikoth/pen/9aa9ee176f136d14494f3bc6fd4a86ce)
 4. [Navigation w/ FlexBox](https://codepen.io/manikoth/pen/97ba3c9337147a98b12aef6aa77a9494)
 5. [CSS Grid w/ Columns](https://codepen.io/manikoth/pen/0c5a331a75acfd20cb78dc257c7db868)
--->
+
 
 
