@@ -6,4 +6,6 @@
 * [Module 3: RWD Foundations](/module-3/README.md)
 * [Module 4: Layout Methods](/module-4/README.md)
 
+<!-- * [Midterm](/docs/midterm/README.md) -->
+
 * [Syllabus](/syllabus/README.md)
