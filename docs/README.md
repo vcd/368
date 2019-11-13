@@ -1,5 +1,12 @@
 # DESN 368 Web Design 1
 
+## In the News
+
+> [New CSS Styling Rules](https://www.youtube.com/watch?v=sZS-7RX_c7g&feature=youtu.be)
+
+<-- Notes --> 
+
+
 ## Master Professor Pen
 Let's type together and practice [pair programming](https://en.wikipedia.org/wiki/Pair_programming).
 
