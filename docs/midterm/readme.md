@@ -5,7 +5,7 @@
 > [:black_nib: Google Fonts w/ Specificity](https://codepen.io/manikoth/pen/6768ac3bcc6c93ce414d0aea0d32947b?editors=1100)
 
 ### Screenshot(s)
-* [Screenshot for Google Fonts w/ Responsive Font Sizes](https://codepen.io/manikoth/pen/6768ac3bcc6c93ce414d0aea0d32947b?editors=1100)
+* [Screenshot for Google Fonts w/ Responsive Font Sizes](https://s3-us-west-2.amazonaws.com/s.cdpn.io/16425/midterm-google-responsive-font.png)
 
 ### References
 * [PlayFair Font via Google Fonts](https://fonts.google.com/specimen/Playfair+Display)
