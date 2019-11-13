@@ -48,6 +48,7 @@
 * [Screenshot A for FlexBox Nav](https://s3-us-west-2.amazonaws.com/s.cdpn.io/16425/midterm-flexbox-nav-a.png)
 * [Screenshot B for FlexBox Nav](https://s3-us-west-2.amazonaws.com/s.cdpn.io/16425/midterm-flexbox-nav-b.png)
 
+### References
 * [Box Model](https://css-tricks.com/the-css-box-model/)
 * [Link States. See also "Related Properties"](https://css-tricks.com/almanac/selectors/l/link/)
 * [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
