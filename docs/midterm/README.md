@@ -48,6 +48,7 @@
 * [Screenshot A for FlexBox Nav](https://s3-us-west-2.amazonaws.com/s.cdpn.io/16425/midterm-flexbox-nav-a.png)
 * [Screenshot B for FlexBox Nav](https://s3-us-west-2.amazonaws.com/s.cdpn.io/16425/midterm-flexbox-nav-b.png)
 
+### References
 * [Box Model](https://css-tricks.com/the-css-box-model/)
 * [Link States. See also "Related Properties"](https://css-tricks.com/almanac/selectors/l/link/)
 * [FlexBox](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
@@ -67,3 +68,16 @@
 * [Columns Property](https://css-tricks.com/guide-responsive-friendly-css-columns/)
 * [CSS Grid Columns & Rows](https://css-tricks.com/almanac/properties/g/grid-rows-columns/)
 * [See Grid Gap property](https://css-tricks.com/snippets/css/complete-guide-grid/)
+
+---
+
+
+## Solutions
+1. [Google Fonts](https://codepen.io/manikoth/pen/99b99a55e239b503eda82c4597e4c16e)
+2. [Advanced CSS Selectors](https://codepen.io/manikoth/pen/6c08b00a0e5bdc652501297cec566709)
+3. [Positioning](https://codepen.io/manikoth/pen/9aa9ee176f136d14494f3bc6fd4a86ce)
+4. [Navigation w/ FlexBox](https://codepen.io/manikoth/pen/97ba3c9337147a98b12aef6aa77a9494)
+5. [CSS Grid w/ Columns](https://codepen.io/manikoth/pen/0c5a331a75acfd20cb78dc257c7db868)
+
+
+
