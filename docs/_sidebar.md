@@ -1,22 +1,13 @@
 **DESN 368 Web Design 1**
-* [Home][1]
-* [Module 0: Tools & Process][2]
-* [Module 1: HTML Foundations][3]
-* [Module 2: CSS Foundations][4]
-* [Module 3: RWD Foundations][5]
-* [Module 4: Layout Methods][6]
-* [Module 5: Putting It All Together][7]
+* [Home](/)
+* [Module 0: Tools & Process](/docs/module-0/README.md)
+* [Module 1: HTML Foundations](/docs/module-1/README.md)
+* [Module 2: CSS Foundations](/docs/module-2/README.md)
+* [Module 3: RWD Foundations](/docs/module-3/README.md)
+* [Module 4: Layout Methods](/docs/module-4/README.md)
+* [Module 5: Animation](/docs/module-5/README.md)
+* [Module 6: Putting It All Together](/docs/module-6/README.md)
 
 * [Midterm][8]
 
 * [Syllabus][9]
-
-[1]:	/
-[2]:	/module-0/README.md
-[3]:	/module-1/README.md
-[4]:	/module-2/README.md
-[5]:	/module-3/README.md
-[6]:	/module-4/README.md
-[7]:	/module-5/README.md
-[8]:	/midterm/README.md
-[9]:	/syllabus/README.md
