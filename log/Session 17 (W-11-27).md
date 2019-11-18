@@ -1,1 +1,3 @@
 # Session 17 (W-11-27)
+
+No Class. Thanksgiving Holiday.
