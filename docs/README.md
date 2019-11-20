@@ -2,9 +2,15 @@
 
 ## In the News
 
-> [New CSS Styling Rules](https://www.youtube.com/watch?v=sZS-7RX_c7g&feature=youtu.be)
+> [Blending Modes in CSS](https://ishadeed.com/article/blending-modes-css/)
 
-<-- Notes --> 
+<!-- Notes 
+
+* [Bigger Screens](https://twitter.com/poukong/status/1197204457383030784)
+* [Things You Cannot Do in CSS](https://www.smashingmagazine.com/2019/11/css-things-cant-yet-do/)
+* [CSS Logical Properties](https://twitter.com/wesbos/status/1194662088528007168)
+
+--> 
 
 
 ## Master Professor Pen
