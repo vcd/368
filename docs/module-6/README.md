@@ -61,6 +61,10 @@ Actually _Atomic Design_ process used on large scale website, but the ideas are 
 * Ex 2: [CSS Lightbox with reflection][12]
 * Pros: No JS need. Fast to load. 
 * Cons: Manually count images.   
+* Technique and Concepts
+  * [Target Selectors](https://codepen.io/manikoth/pen/HkugC?editors=1100)
+  * [CSS Lightbox. No JavaScript](https://codepen.io/manikoth/pen/pyJBGZ?editors=1100)
+
 
 [1]:	https://codepen.io/manikoth/project/editor/DWpjRK
 [2]:	https://codepen.io/manikoth/pen/QWWzodR
