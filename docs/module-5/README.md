@@ -1,6 +1,6 @@
 # Transitions, Transfoms, & Animation
 
-## Concepts
+# Transiton
 
 * Read [Lesson 8: Transitions][1]
 * Why? More performant that using Adobe Flash or JavaScript. No dependencies. 
@@ -27,11 +27,10 @@
 * [Circle Hover Effects with CSS Transitions][12]
 
 ## References & Resources
-* [Animatable gallery]()(http://leaverou.github.io/animatable/) via Lea Verou
-* [CSS Tricks]()(http://css-tricks.com/almanac/properties/t/transition/)
-* [Alex Maccaw - CSS Transitions]()(http://blog.alexmaccaw.com/css-transitions)
-* [Custom Bezier generator]()(http://cubic-bezier.com/)
-
+* [Animatable gallery](http://leaverou.github.io/animatable/) via Lea Verou
+* [CSS Tricks](http://css-tricks.com/almanac/properties/t/transition/)
+* [Alex Maccaw - CSS Transitions](http://blog.alexmaccaw.com/css-transitions)
+* [Custom Bezier generator](http://cubic-bezier.com/)
 
 
 [1]:	http://learn.shayhowe.com/advanced-html-css/transitions-animations/#transitions
@@ -81,3 +80,36 @@
 
 ---
 
+# Keyframe Animation
+
+## Overview
+
+* performant frame by frame animation
+* supported on mobile devices w/o plugins
+* reusable animations for use site wide
+* Refer to: [Keyframe Animation][1]
+
+## Practice
+
+* Keyframe Animation properties
+  - [@keyframes][2]
+  - [animation-name][3]
+  - [animation-duration][4]
+  - [animation-iteration-count][5]
+  - [animation-direction][6]
+  - [animation-fill-mode][7]
+
+
+## Application
+
+* [Animate CSS][8]
+* Stunning CSS Visuals w/o JavaScript
+
+[1]:	http://learn.shayhowe.com/advanced-html-css/transitions-animations/#animations
+[2]:	https://developer.mozilla.org/en-US/docs/Web/CSS/@keyframes
+[3]:	https://developer.mozilla.org/en-US/docs/Web/CSS/animation-name
+[4]:	https://developer.mozilla.org/en-US/docs/Web/CSS/animation-duration
+[5]:	https://developer.mozilla.org/en-US/docs/Web/CSS/animation-iteration-count
+[6]:	https://developer.mozilla.org/en-US/docs/Web/CSS/animation-direction
+[7]:	https://developer.mozilla.org/en-US/docs/Web/CSS/animation-fill-mode
+[8]:	https://daneden.github.io/animate.css/
