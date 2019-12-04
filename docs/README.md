@@ -2,7 +2,7 @@
 
 ## In the News
 
-> [Blending Modes in CSS](https://ishadeed.com/article/blending-modes-css/)
+> [Re-Opening my YouTube Channel to Web 1](https://youtu.be/8DmpgIXe53M)
 
 <!-- Notes 
 
