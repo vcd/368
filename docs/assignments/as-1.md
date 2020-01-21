@@ -1,7 +1,15 @@
 # Assignment 1
 
+## Reference
+Watch. Follow along. Practice. Scrub forwards/back. Speed up/down. 
 
-## Fork. Solve. Submit. 
-Fork to your account, solve, then submit - your - CodePen pen. Provide URL to your-solved pen. Double check URLs. 
+* [Introduction to HTML on Scrimba](https://scrimba.com/g/ghtml)
 
-* [About Swoop](https://codepen.io/manikoth/pen/WNeqjBW)
+## Practice
+* Choose five topics from the tutorial
+* Create 5(fives) pens for each topic chosen
+* Add pens to _Assignments_ Collection as
+  * AS-1: Pen 1, AS-1: Pen 2, etc.
+
+## Submission
+* Provide URL to CodePen _Collection_
