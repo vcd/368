@@ -1,4 +1,5 @@
 
 _quarterly/*
 *.plist
-.UlyssesRoot
+*.UlyssesRoot
+*.Ulysses-Group.plist
