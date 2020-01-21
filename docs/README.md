@@ -1,11 +1,15 @@
 # DESN 368 Web Design 1
 
+<<<<<<< HEAD
 ## In the News
 
 > [Things You Cannot Do in CSS](https://www.smashingmagazine.com/2019/11/css-things-cant-yet-do/)
+=======
+>>>>>>> 278bf5b07c3e4e3cac4c60cb22566cfe189540e9
 
 <!-- Notes 
 
+> [Re-Opening my YouTube Channel to Web 1](https://youtu.be/8DmpgIXe53M)
 * [Bigger Screens](https://twitter.com/poukong/status/1197204457383030784)
 
 * [CSS Logical Properties](https://twitter.com/wesbos/status/1194662088528007168)
