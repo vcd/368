@@ -7,5 +7,4 @@
 * [Module 4: Layout Methods](module-4/README.md)
 * [Module 5: Animation](module-5/README.md)
 * [Module 6: Putting It All Together](module-6/README.md)
-
 * [Syllabus](syllabus/README.md)
