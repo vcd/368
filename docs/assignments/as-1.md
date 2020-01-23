@@ -8,8 +8,8 @@ Watch. Follow along. Practice. Scrub forwards/back. Speed up/down.
 ## Practice
 * Choose five topics from the tutorial
 * Create 5(fives) pens for each topic chosen
-* Add pens to _Assignments_ Collection as
+* Add pens to `Assignments` _Collection_
   * AS-1: Pen 1, AS-1: Pen 2, etc.
 
 ## Submission
-* Provide URL to CodePen _Collection_
+* Provide URL to  `Assignments` CodePen _Collection_
