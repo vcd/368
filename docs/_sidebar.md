@@ -8,4 +8,4 @@
 * [Module 5: Animation](module-5/README.md)
 * [Module 6: Putting It All Together](module-6/README.md)
 
-* [Syllabus](/syllabus/README.md)
+* [Syllabus](syllabus/README.md)
